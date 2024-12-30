@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\OOP-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|e:\\root course\\c#\\basics\\oop-04\\assignment04_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|solutionrelative:assignment04_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|e:\\root course\\c#\\basics\\oop-04\\assignment04_oop\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|solutionrelative:assignment04_oop\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|e:\\root course\\c#\\basics\\oop-04\\assignment04_oop\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598D1F35-3843-4B73-8443-74305D886729}|Assignment04_OOP\\Assignment04_OOP.csproj|solutionrelative:assignment04_oop\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Point3D.cs",
+              "RelativeDocumentMoniker": "Assignment04_OOP\\Point3D.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Point3D.cs",
+              "RelativeToolTip": "Assignment04_OOP\\Point3D.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:41:08.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Duration.cs",
+              "RelativeDocumentMoniker": "Assignment04_OOP\\Duration.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Duration.cs*",
+              "RelativeToolTip": "Assignment04_OOP\\Duration.cs*",
+              "ViewState": "AgIAAK0AAAAAAAAAAIA4wLgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:13:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment04_OOP\\Program.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-04\\Assignment04_OOP\\Program.cs",
+              "RelativeToolTip": "Assignment04_OOP\\Program.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAnwLAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:45:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
